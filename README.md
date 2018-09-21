@@ -1,1 +1,1 @@
-Dependences of Wave.
+Dependencies of Wave.
